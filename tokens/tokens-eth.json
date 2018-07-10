@@ -9300,6 +9300,30 @@
 			"telegram": "",
 			"twitter": "https://twitter.com/itt_token",
 			"youtube": ""
+		}{
+		"symbol": "IVY",
+		"address": "0xa4ea687a2a7f29cf2dc66b39c68e4411c0d00c49",
+		"decimals": 18,
+		"name": "IVY ",
+		"ens_address": "",
+		"website": "https://www.ivykoin.com/",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "mail@ivykoin.com", "url": "" },
+		"social": {
+			"blog": "https://medium.com/@ivykoin",
+			"bitcoin talk": https://bitcointalk.org/index.php?topic=4493520,
+			"chat": "",
+			"facebook": "https://www.facebook.com/ivykoin",
+			"forum": "https://bitcointalk.org/index.php?topic=2064501",
+			"github": "https://github.com/ivy-project/",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/ivykoin/",
+			"linkedin": "https://www.linkedin.com/company/ivykoin/",
+			"reddit": "https://www.reddit.com/r/IvyProject/",
+			"slack": "",
+			"telegram": "https://t.me/ivyKoinchat",
+			"twitter": "https://twitter.com/ivykoin",
+			"youtube": "https://www.youtube.com/c/ivyproject"
 		}
 	},
 	{
